@@ -1,0 +1,10 @@
+body {
+  background: #223;
+}
+
+.container {
+  display: flex;
+
+  /* justify-content: center; */
+  margin-top: 3rem;
+}
